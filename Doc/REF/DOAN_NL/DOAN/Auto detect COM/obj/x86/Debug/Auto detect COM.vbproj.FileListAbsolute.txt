@@ -1,0 +1,204 @@
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\2-Auto detect COM\Auto detect COM\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\Visual Basic Express\@My example\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sillyDAT\Desktop\LPC1768\DO AN\@OK!!!\UART\VB\4UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sillyDAT\Desktop\VB UART\Auto detect COM\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sillyDAT\Desktop\MyPMSM\VB UART\Auto detect COM2\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\Auto detect COM.exe
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\Auto detect COM.pdb
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\Auto detect COM.xml
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\ZedGraph.xml
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\ARMSTUDY\UART\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\Auto detect COM.exe
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\Auto detect COM.xml
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\Auto detect COM.pdb
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\Auto detect COM.exe
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\Auto detect COM.pdb
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\Auto detect COM.xml
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\ZedGraph.xml
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gacon119\Desktop\DOAN\Auto detect COM\obj\x86\Debug\GenerateResource.write.1.tlog

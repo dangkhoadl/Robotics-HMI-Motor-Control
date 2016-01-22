@@ -1,0 +1,11 @@
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.exe
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\bin\Debug\PID CONTROL.pdb
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Form1.resources
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID_CONTROL.Properties.Resources.resources
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+c:\documents and settings\easy xp\my documents\visual studio 2010\Projects\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.exe
+E:\abc\PIF\homework\code pid\PID CONTROL\PID CONTROL\obj\x86\Debug\PID CONTROL.pdb

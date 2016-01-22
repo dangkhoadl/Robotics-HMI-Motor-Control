@@ -1,0 +1,5 @@
+--cpu Cortex-M4 ".\out\startup_stm32f4xx.o" ".\out\misc.o" ".\out\stm32f4xx_adc.o" ".\out\stm32f4xx_dma.o" ".\out\stm32f4xx_exti.o" ".\out\stm32f4xx_gpio.o" ".\out\stm32f4xx_rcc.o" ".\out\stm32f4xx_syscfg.o" ".\out\stm32f4xx_tim.o" ".\out\stm32f4xx_usart.o" ".\out\lcd.o" ".\out\reprintf.o" ".\out\stm_init.o" ".\out\system_stm32f4xx.o" ".\out\main.o" 
+--library_type=microlib --strict --scatter ".\OUT\PID_Control.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OUT\PID_Control.map" -o .\OUT\PID_Control.axf

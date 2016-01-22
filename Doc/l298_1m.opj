@@ -1,0 +1,35 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\l298_1m.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\l298_1m.dsn")
+      (Path "Design Resources" ".\l298_1m.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\l298_1m.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 427"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1212 50 479")
+        (Scroll "0 109")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\DANGKHOA\DESKTOP\L298_1M.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

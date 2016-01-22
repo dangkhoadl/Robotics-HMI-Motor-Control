@@ -1,0 +1,5 @@
+--cpu Cortex-M4 ".\out\startup_stm32f4xx.o" ".\out\misc.o" ".\out\stm32f4xx_rcc.o" ".\out\stm32f4xx_gpio.o" ".\out\stm32f4xx_exti.o" ".\out\stm32f4xx_syscfg.o" ".\out\stm32f4xx_tim.o" ".\out\stm32f4xx_usart.o" ".\out\main.o" ".\out\system_stm32f4xx.o" ".\out\lcd.o" ".\out\reprintf.o" ".\out\uart.o" ".\out\systick.o" ".\out\encoder.o" ".\out\pwm.o" 
+--library_type=microlib --strict --scatter ".\OUT\GPIO.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OUT\GPIO.map" -o .\OUT\GPIO.axf

@@ -1,0 +1,34 @@
+*** Creating Trace Output File '.\OUT\PID_Control.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\out\startup_stm32f4xx.o"'
+### List of Objects: adding '".\out\misc.o"'
+### List of Objects: adding '".\out\stm32f4xx_adc.o"'
+### List of Objects: adding '".\out\stm32f4xx_dma.o"'
+### List of Objects: adding '".\out\stm32f4xx_exti.o"'
+### List of Objects: adding '".\out\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\out\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\out\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\out\stm32f4xx_tim.o"'
+### List of Objects: adding '".\out\stm32f4xx_usart.o"'
+### List of Objects: adding '".\out\lcd.o"'
+### List of Objects: adding '".\out\reprintf.o"'
+### List of Objects: adding '".\out\stm_init.o"'
+### List of Objects: adding '".\out\system_stm32f4xx.o"'
+### List of Objects: adding '".\out\main.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4 ".\out\startup_stm32f4xx.o" ".\out\misc.o" ".\out\stm32f4xx_adc.o" ".\out\stm32f4xx_dma.o" ".\out\stm32f4xx_exti.o" ".\out\stm32f4xx_gpio.o" ".\out\stm32f4xx_rcc.o" ".\out\stm32f4xx_syscfg.o" ".\out\stm32f4xx_tim.o" ".\out\stm32f4xx_usart.o" ".\out\lcd.o" ".\out\reprintf.o" ".\out\stm_init.o" ".\out\system_stm32f4xx.o" ".\out\main.o" 
+--library_type=microlib --strict --scatter ".\OUT\PID_Control.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\OUT\PID_Control.map" -o .\OUT\PID_Control.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\OUT\PID_Control.axf'
+### ADS-LD Command File: '.\OUT\PID_Control.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\OUT\PID_Control.lnp', Handle=0x00000E2C
+### Writing '.lnp' file
+### ADS-LD Command file '.\OUT\PID_Control.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

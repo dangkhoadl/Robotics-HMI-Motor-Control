@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork -I..\ -I..\..\Libraries\CMSIS\STM32F4xx\Include -I..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc -I..\..\Libraries\STM32_LCD_Driver\inc -I..\..\Libraries\UART\inc -I..\..\Libraries\SysTick\inc -I..\..\Libraries\Encoder\inc -I..\..\Libraries\PWM\inc 
+-I L:\Keil\ARM\RV31\INC 
+-I L:\Keil\ARM\CMSIS\Include 
+-I L:\Keil\ARM\Inc\ST\STM32F4xx 
+-DUSE_STDPERIPH_DRIVER -DSTM32F4XX -o ".\OUT\encoder.o" --omf_browse ".\OUT\encoder.crf" --depend ".\OUT\encoder.d" "..\..\Libraries\Encoder\src\Encoder.c"

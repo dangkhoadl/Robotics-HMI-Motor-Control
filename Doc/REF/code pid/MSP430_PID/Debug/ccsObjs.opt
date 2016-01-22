@@ -1,0 +1,1 @@
+"./main.obj" "./UART.obj" "./Basic_config.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
